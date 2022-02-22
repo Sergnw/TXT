@@ -1,1 +1,16 @@
-
+ID: 1 A
+Title: Нажатие кнопки 'каталог' на главной странице не перенаправляет на страницу каталога товаров
+Project: Сайт онлайн-магазина табака 'Дым&ок'
+Component: Кнопка Каталог
+version: ppbb 3.21.18
+Severity: Critical
+Priority: High
+Status: Open
+Author: Sergey _
+Assigned to: Mark Polo
+Enviroment: Windows 10 x64 build 19044, Browser Yandex.Browser 22.14
+Steps to Reproduce: 1)Зайти на главную страницу сайта (ссылка_на_сайт)
+                    2)Нажать кнопку Каталог
+Actual result: Нажатие кнопки Каталог не перенаправляет на страницу каталога
+Expected result: Нажатие кнопки каталог перенаправляет на страницу каталога
+Attachments: ссылка на страницу
